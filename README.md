@@ -2,7 +2,7 @@
 
 
 
-I have declared here integer value ,i'm giving here(not declarted value) the string value, Float value.so,the error is showing.
+I  declared here integer value ,i'm giving here(not declarted value) the string value, Float value.so,the error is showing.
 
 
 
