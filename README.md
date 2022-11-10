@@ -1,11 +1,11 @@
 "# All-KInd-of-MAthemetical-" 
 
+This Java code using for Math calculation.This is Calculate the All Kind of Calculation in one code 
+This code get user inputput Two value and Calculate the value .This code multi calculation in one program. 
+This code Calculate  Math Operators, Math OperatorsPrecedence ,  Integer Math, Floating Point Math,Floating Point Precision,Basic Math Functions,Exponential and Logarithmic Math Functions,Trigonometric Math Functions.All calculation in one code.
 
 
 I  declared The Integer value ,i giving The(not declarted value) the string value, Float value.so,the error is showing.
-
-
-
 
 
 
