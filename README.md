@@ -1,6 +1,14 @@
 "# All-KInd-of-MAthemetical-" 
-I have declared here integer value ,i'm giving here the string value.so,the error is showing.
-I have declared here integer value ,i'm giving here the Float value.so,the error is showing.
+
+
+
+I have declared here integer value ,i'm giving here(not declarted value) the string value, Float value.so,the error is showing.
+
+
+
+
+
+
 
 ![Screenshot 2022-11-10 130211](https://user-images.githubusercontent.com/116792869/201041332-aaa7c40b-24ad-46c9-a1c6-cb6f991f6727.png)
 ![Screenshot 2022-11-10 130313](https://user-images.githubusercontent.com/116792869/201041671-dd60371a-7bea-4dc4-b106-5ecbe92667b4.png)
